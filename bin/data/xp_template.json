@@ -47,7 +47,7 @@
       "Show": true,
       "FontSize": 30,
       "Pos": {
-        "X": 148,
+        "X": 151,
         "Y": 179
       }
     },
@@ -56,12 +56,12 @@
       "Show": true,
       "FontSize": 30,
       "Pos": {
-        "X": 148,
+        "X": 150,
         "Y": 326
       }
     },
     "TimeOnLevel": {
-      "Format": "{0}d{1}h{2}m",
+      "Format": "{0}d",
       "Global": {
         "Color": "ffffffff",
         "Show": true,
