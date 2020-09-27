@@ -29,8 +29,8 @@
       "Show": true,
       "FontSize": 26,
       "Pos": {
-        "X": 292,
-        "Y": 171
+        "X": 279,
+        "Y": 295
       }
     },
     "GuildLevel": {
@@ -45,10 +45,10 @@
     "GlobalRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 10,
       "Pos": {
-        "X": 320,
-        "Y": 203
+        "X": 277,
+        "Y": 332
       }
     },
     "GuildRank": {
@@ -73,7 +73,7 @@
       },
       "Guild": {
         "Color": "ffffff",
-        "Show": true,
+        "Show": false,
         "FontSize": 26,
         "Pos": {
           "X": 285,
@@ -142,7 +142,7 @@
   },
   "Club": {
     "Icon": {
-      "Show": true,
+      "Show": false,
       "Pos": {
         "X": 196,
         "Y": 67
@@ -154,7 +154,7 @@
     },
     "Name": {
       "Color": "ffffff",
-      "Show": true,
+      "Show": false,
       "FontSize": 35,
       "Pos": {
         "X": 298,
