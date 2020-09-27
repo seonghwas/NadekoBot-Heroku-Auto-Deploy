@@ -36,16 +36,16 @@
     "GuildLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 30,
       "Pos": {
         "X": 292,
-        "Y": 267
+        "Y": 260
       }
     },
     "GlobalRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 10,
+      "FontSize": 14,
       "Pos": {
         "X": 277,
         "Y": 332
