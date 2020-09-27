@@ -5,7 +5,7 @@
   },
   "User": {
     "Name": {
-      "Color": "ffffff",
+      "Color": "000001",
       "Show": true,
       "FontSize": 40,
       "Pos": {
@@ -25,7 +25,7 @@
       }
     },
     "GlobalLevel": {
-      "Color": "ffffff",
+      "Color": "000001",
       "Show": true,
       "FontSize": 26,
       "Pos": {
@@ -34,7 +34,7 @@
       }
     },
     "GuildLevel": {
-      "Color": "ffffff",
+      "Color": "000001",
       "Show": true,
       "FontSize": 26,
       "Pos": {
@@ -43,7 +43,7 @@
       }
     },
     "GlobalRank": {
-      "Color": "ffffff",
+      "Color": "000001",
       "Show": true,
       "FontSize": 26,
       "Pos": {
@@ -52,7 +52,7 @@
       }
     },
     "GuildRank": {
-      "Color": "ffffff",
+      "Color": "000001",
       "Show": true,
       "FontSize": 26,
       "Pos": {
@@ -63,7 +63,7 @@
     "TimeOnLevel": {
       "Format": "{0}d",
       "Global": {
-        "Color": "ffffff",
+        "Color": "000001",
         "Show": true,
         "FontSize": 26,
         "Pos": {
@@ -72,7 +72,7 @@
         }
       },
       "Guild": {
-        "Color": "ffffff",
+        "Color": "000001",
         "Show": true,
         "FontSize": 26,
         "Pos": {
@@ -85,7 +85,7 @@
       "Bar": {
         "Show": true,
         "Global": {
-          "Color": "9bb8db",
+          "Color": "00a100",
           "PointA": {
             "X": 28,
             "Y": 235
@@ -98,7 +98,7 @@
           "Direction": 3
         },
         "Guild": {
-          "Color": "9bb8db",
+          "Color": "00a100",
           "PointA": {
             "X": 28,
             "Y": 330
@@ -112,7 +112,7 @@
         }
       },
       "Global": {
-        "Color": "ffffff",
+        "Color": "000001",
         "Show": false,
         "FontSize": 28,
         "Pos": {
@@ -121,7 +121,7 @@
         }
       },
       "Guild": {
-        "Color": "ffffff",
+        "Color": "000001",
         "Show": false,
         "FontSize": 28,
         "Pos": {
@@ -130,7 +130,7 @@
         }
       },
       "Awarded": {
-        "Color": "ffffff",
+        "Color": "000001",
         "Show": false,
         "FontSize": 0,
         "Pos": {
@@ -153,7 +153,7 @@
       }
     },
     "Name": {
-      "Color": "ffffff",
+      "Color": "000001",
       "Show": true,
       "FontSize": 35,
       "Pos": {
