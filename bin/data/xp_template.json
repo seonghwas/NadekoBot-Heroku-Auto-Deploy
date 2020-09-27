@@ -27,7 +27,7 @@
     "GlobalLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 30,
       "Pos": {
         "X": 279,
         "Y": 295
@@ -38,14 +38,14 @@
       "Show": true,
       "FontSize": 30,
       "Pos": {
-        "X": 292,
-        "Y": 260
+        "X": 279,
+        "Y": 365
       }
     },
     "GlobalRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 14,
+      "FontSize": 18,
       "Pos": {
         "X": 277,
         "Y": 332
@@ -54,10 +54,10 @@
     "GuildRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 18,
       "Pos": {
-        "X": 323,
-        "Y": 298
+        "X": 277,
+        "Y": 404
       }
     },
     "TimeOnLevel": {
