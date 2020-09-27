@@ -64,7 +64,7 @@
       "Format": "{0}d",
       "Global": {
         "Color": "ffffff",
-        "Show": true,
+        "Show": false,
         "FontSize": 26,
         "Pos": {
           "X": 284,
@@ -88,13 +88,13 @@
           "Color": "00a100",
           "PointA": {
             "X": 17,
-            "Y": 369
+            "Y": 296
           },
           "PointB": {
-            "X": 28,
-            "Y": 257
+            "X": 17,
+            "Y": 335
           },
-          "Length": 346,
+          "Length": 182,
           "Direction": 3
         },
         "Guild": {
@@ -107,7 +107,7 @@
             "X": 17,
             "Y": 406
           },
-          "Length": 346,
+          "Length": 182,
           "Direction": 3
         }
       },
